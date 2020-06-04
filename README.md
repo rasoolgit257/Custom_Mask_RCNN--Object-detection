@@ -1,2 +1,2 @@
 # Custom_Mask_RCNN--Object-detection
-![](path/to/image.png)
+![](https://github.com/rasoolgit257/Custom_Mask_RCNN--Object-detection/blob/master/Output.png)
